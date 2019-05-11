@@ -1,0 +1,5 @@
+stackless
+colorama
+greenlet
+retry
+tqdm
